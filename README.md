@@ -44,7 +44,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Biren Rana streak" src="https://github-readme-streak-stats.herokuapp.com/?user=birenrana&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
- <h1> ## 📊 My Github Stats</h1>
+ <h1>  📊 My Github Stats</h1>
 
   <br/>
     <a href="https://github.com/birenrana/github-readme-stats"><img alt="Biren Rana Github Stats" src="https://github-readme-stats.vercel.app/api?username=birenrana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -69,6 +69,11 @@
 <a href = "https://www.youtube.com"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
+  <h1> ❤ Views and Followers </h1>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=birenrana">
+</a>
+<a href="https://github.com/birenrana?tab=followers"><img src="https://img.shields.io/github/followers/birenrana?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <!--
