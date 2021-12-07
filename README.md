@@ -3,6 +3,8 @@ I'm Freelancer, Front-End Developer , Application Developer, Web developers.
 
 I can provide you blazing fast & secure web platform,Maintaining and improving website Optimizing applications for maximum speed.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer+from+India.;Javascript+Enthusiast;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+
 
 🧑🏻‍💻 About Me
 - 🔭 I’m currently working on ...
